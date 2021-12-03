@@ -1,0 +1,9 @@
+.gradiente{
+    background: linear-gradient(#f7e263,#9edcc5);
+}
+.cor-fundo-ultimo{
+    background-color: rgb(0, 110, 255);
+}
+.texto{
+    font-size: 30px;
+}
